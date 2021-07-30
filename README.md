@@ -1,8 +1,6 @@
 # Thesis: Evaluation of Head Movement Prediction Methods for 360º Video Streaming
 
-# Author: João Francisco Pronto Sebastião
-
-# Email: joaofpsebastiao@tecnico.ulisboa.pt
+Author: João Francisco Pronto Sebastião,  email: joaofpsebastiao@tecnico.ulisboa.pt
 
 
 Below are presented all the results obtained in this thesis.
