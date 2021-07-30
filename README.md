@@ -2,6 +2,9 @@
 
 Below are presented all the results obtained in this thesis.
 
+
+
+
 Results obtained for the PAMI18 dataset:
 
 -> Hit Rate metric
@@ -9,6 +12,7 @@ Results obtained for the PAMI18 dataset:
 
 -> Orthodromic Distance metric
 ![orthdist_pami](https://user-images.githubusercontent.com/37224255/127677899-e57770a0-37b5-42c6-b2f2-ee8cfb620c5f.png)
+![pami](https://user-images.githubusercontent.com/37224255/127680355-964ab6db-8efd-41aa-a49e-c5ce42ea66ec.png)
 
 -> AR model sampling tests (both metrics)
 ![sampled_ar_hitrate_pami](https://user-images.githubusercontent.com/37224255/127677486-7b14ea5a-599e-4198-b3ae-0ed348e47cf7.png)
@@ -27,6 +31,8 @@ Results obtained for the MM18 dataset:
 
 -> Orthodromic Distance metric
 ![orthdist_mm](https://user-images.githubusercontent.com/37224255/127677793-27e52eeb-f1c9-415c-9c79-724e191ca3bb.png)
+![mm](https://user-images.githubusercontent.com/37224255/127680524-962ac2ae-5295-4df3-9d0a-7361caf729b3.png)
+
 
 -> No sampling tests were performed in this dataset
 
@@ -39,6 +45,7 @@ Results obtained for the NOSSDAV17 dataset:
 
 -> Orthodromic Distance metric
 ![orthdist_nossdav](https://user-images.githubusercontent.com/37224255/127677823-b6f7a661-8b58-42cc-becc-1b5392829663.png)
+![nossdav](https://user-images.githubusercontent.com/37224255/127680453-4ffaac99-82e4-4b15-8563-45cb8daaae45.png)
 
 -> AR model sampling tests (both metrics)
 ![sampled_ar_hitrate_nossdav](https://user-images.githubusercontent.com/37224255/127677298-46c5bddb-e1f8-4d66-b161-cdf9c45ec71a.png)
