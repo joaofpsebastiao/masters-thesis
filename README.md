@@ -1,4 +1,5 @@
 # Thesis: Evaluation of Head Movement Prediction Methods for 360º Video Streaming
+by João Sebastião
 
 Below are presented all the results obtained in this thesis.
 
@@ -22,7 +23,7 @@ Results obtained for the PAMI18 dataset:
 ![sampled_arma_hitrate_pami](https://user-images.githubusercontent.com/37224255/127677373-22ac3d53-65e3-4e63-91f6-b75fa310ebcc.png)
 ![sampled_arma_orthdist_pami](https://user-images.githubusercontent.com/37224255/127678019-6f335c20-b5c7-4bd5-95d9-a6693d657852.png)
 
---------------------------------------------------------//--------------------------------------------------------
+----------------------------------------------------------//----------------------------------------------------------
 
 Results obtained for the MM18 dataset:
 
@@ -36,7 +37,7 @@ Results obtained for the MM18 dataset:
 
 -> No sampling tests were performed in this dataset
 
---------------------------------------------------------//--------------------------------------------------------
+----------------------------------------------------------//----------------------------------------------------------
 
 Results obtained for the NOSSDAV17 dataset:
 
@@ -55,7 +56,7 @@ Results obtained for the NOSSDAV17 dataset:
 ![sampled_arma_hitrate_nossdav](https://user-images.githubusercontent.com/37224255/127677086-c598a102-8c12-4b6d-beb7-7bee15e45461.png)
 ![sampled_arma_orthdist_nossdav](https://user-images.githubusercontent.com/37224255/127677069-c4a3584c-67fe-4c24-b233-fb1a50dbd80b.png)
 
---------------------------------------------------------//--------------------------------------------------------
+----------------------------------------------------------//----------------------------------------------------------
 
 Results obtained for the tests to determine the influence of the roll angle in the NOSSDAV17 dataset:
 
