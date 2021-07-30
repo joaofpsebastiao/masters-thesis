@@ -2,8 +2,11 @@
 
 Author: João Francisco Pronto Sebastião,  email: joaofpsebastiao@tecnico.ulisboa.pt
 
-
 Below are presented all the results obtained in this thesis.
+
+----------------------------------------------------------//----------------------------------------------------------
+
+Results obtained for the PAMI18 dataset:
 
 -> Results obtained using the Hit Rate metric:
 ![hitrate_pami](https://user-images.githubusercontent.com/37224255/127677562-c021bd1d-7e27-4faa-a322-f37188023f73.png)
